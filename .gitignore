@@ -221,3 +221,5 @@ __marimo__/
 
 # nba_data
 nba_data/
+# model artifacts (cached tables, trained models)
+artifacts/
